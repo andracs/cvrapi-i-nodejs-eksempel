@@ -1,6 +1,6 @@
 {
   "name": "cvr-dummy",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Et modul, som kan tilgå CVR-API",
   "main": "cvr-lookup.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/andracs/cvrapi-i-nodejs-eksempel.git"
   },
-  "author": "András Ács + datamatiker i Næstved",
+  "author": "András Ács + datamatikerstuderende i Næstved",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/andracs/cvrapi-i-nodejs-eksempel/issues"

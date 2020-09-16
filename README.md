@@ -1,6 +1,6 @@
 CVR-Lookup er et node modul, som kan bruges til at hente data fra CVR registret.
 
-## Usage:
+## Usage
 
 1. Installer og importer modulet
 
